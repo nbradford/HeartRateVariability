@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Heart Rate Variability</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="HRV">Heart Rate Variablity</string>
+    <string name="Run Relax">Run Relax Test</string>
+    <string name="Run Stress">Run Stress Test</string>
+    <string name="Run Relax Stress">Run Relax and Stress Test</string>
+    <string name="RR Table">RR Table</string>
+    <string name="Pick User">Pick Previous User</string>
+    <string name="Add New User">Add New User</string>
+
+</resources>

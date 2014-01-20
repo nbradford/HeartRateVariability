@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:text="@string/HRV" />
+
+    <Button
+        android:id="@+id/relax"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Run Relax" />
+
+    <Button
+        android:id="@+id/stress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Run Stress" />
+
+    <Button
+        android:id="@+id/relaxstress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Run Relax Stress" />
+
+    <Button
+        android:id="@+id/rrtable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/RR Table" />
+
+</LinearLayout>
